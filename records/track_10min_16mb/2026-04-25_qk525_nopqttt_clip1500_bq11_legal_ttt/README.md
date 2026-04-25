@@ -4,7 +4,7 @@ Draft PR for compute grant request. Current implementation has passed local, sin
 
 Status: draft / compute request. Not claiming final leaderboard record yet. 8xH100 seed0 2M dryrun succeeded; full 2400-iteration and 3-seed validation pending compute.
 
-PR link: pending draft PR creation
+PR link: https://github.com/openai/parameter-golf/pull/1816
 
 ## Current Verified Result
 
@@ -85,7 +85,6 @@ ttt_strict_causal_prefix_only:  true
 - Full 2400-iteration 8xH100 run.
 - 3-seed 8xH100 validation.
 - Final full-validation leaderboard measurement.
-- Final PR link update after draft PR creation.
 
 ## Included Files
 

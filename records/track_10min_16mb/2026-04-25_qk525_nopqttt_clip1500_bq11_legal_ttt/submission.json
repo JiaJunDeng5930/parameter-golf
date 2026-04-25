@@ -5,7 +5,7 @@
   "date": "2026-04-25",
   "track": "10min_16mb",
   "status": "draft_non_record_compute_request",
-  "pr_link": "pending draft PR creation",
+  "pr_link": "https://github.com/openai/parameter-golf/pull/1816",
   "val_bpb": 1.3915172403965905,
   "seeds": [0],
   "seed_results": {
